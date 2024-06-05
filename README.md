@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💚
 
-<!--
-**rafaelacassiano/rafaelacassiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rafaela Cassiano
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desnvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+0000109175014sp@al.educacao.sp.gov.br
+
+@_rafaela.cassiano_
+
+![](https://media1.tenor.com/m/vBicH3Lgb5MAAAAd/the-office-party.gif)
